@@ -1,3 +1,3 @@
 ###Physical Radar Chart
 
-Sketch using www.processing.org to prepare pdf files for cutting laser extracting data from .csv
+Herramienta en processing.org para realizar figuras de tipo radial chart para corte láser en mdf para visualizar datos.
